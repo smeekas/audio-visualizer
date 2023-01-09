@@ -45,7 +45,7 @@ function App() {
         // console.log();
         // console.log(+((count / array.length).toFixed()))
         // console.log(array);
-      }, 64)
+      }, 32)
       // console.log(source)
     }
     getMicrophone()
